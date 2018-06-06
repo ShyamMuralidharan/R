@@ -2,6 +2,8 @@ nm <- read.csv("nm-logit.csv")
 library(pscl)
 library(lmtest)
 library(pROC)
+library(dplyr)
+library(ggplot2)
 
 head(nm)
 nm<- nm[,c(-1,-6)]
@@ -14,11 +16,22 @@ lrtest(mod)
 pR2(mod)
 ### Step 3: Explore the summary table for statistical significance
 ###         of the variables
-summary(mod)
+s <- summary(mod)
 ### Step 4: Export the odds beta values of the model
 exp(coef(mod))
 # compute probability as odds/odds+1
-exp(coef(mod))/(exp(coef(mod))+1)
+a <- exp(coef(mod))/(exp(coef(mod))+1)
+df <- data.frame(Odds=exp(coefficients(logit)),
+                 PVal =b$coefficients[,"Pr(>|z|)"],
+                 Prob = a)
+### Create the band of varialble values based on the Odds and te Pr value
+df <- df %>% mutate(choice=ifelse(Odds>1 & PVal <0.05,"MustUse",
+                                  ifelse(Odds>1 & PVal <0.5,"Recommended",
+                                         ifelse(Odds>1 & PVal <0.9,"Try","Ignore"))))
+df %>% 
+  ggplot(aes(choice)) + 
+  geom_bar() + 
+  geom_text(stat='count',aes(label=..count..),vjust=-1,size=3)
 ### Step 5: Build the confusion Matrix/classification table
 # pre steps to build the confusion matrix
 pred <- predict(mod,newdata=nm,type="response")
