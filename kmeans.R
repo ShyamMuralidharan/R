@@ -1,5 +1,6 @@
 ## Unsupervised learning
 library(ggplot2)
+#### Display the contents #### 
 ggplot(iris,aes(Petal.Length,Petal.Width))+
   geom_point()
 km.ir <- kmeans(iris[,-5],centers=3,nstart = 20)
