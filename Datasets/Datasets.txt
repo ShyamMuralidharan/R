@@ -1,0 +1,24 @@
+## Visualization
+================
+https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
+
+
+
+## Regression
+===========
+1. https://datahack.analyticsvidhya.com/contest/black-friday/
+
+2. https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage/data
+
+3. https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
+
+4. https://www.kaggle.com/harlfoxem/housesalesprediction/data
+
+## Classification
+===============
+1. https://archive.ics.uci.edu/ml/machine-learning-databases/car/
+
+2. https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#data_dictionary
+
+3. https://datahack.analyticsvidhya.com/contest/data-science-hackathon-churn-prediction/ 
+

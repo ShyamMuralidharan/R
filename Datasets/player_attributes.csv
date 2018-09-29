@@ -1,0 +1,682 @@
+player_id,player_name,date_of_birth,birth_place,role,batting_style,bowling_style
+1,Mahendra Singh Dhoni,"Jul 07, 1981",Ranchi,WK-Batsman,Right Handed Bat,Right-Arm Medium
+2,Srikkanth Anirudha,"Apr 14, 1987",,Batsman,Right Handed Bat,
+3,Ravichandran Ashwin,"Sep 17, 1986",,Bowler,Right Handed Bat,Right-Arm Offbreak
+4,Lakshmipathy Balaji,"Sep 27, 1981","Madras (Now Chennai), Tamil Nadu",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+5,Stephen Fleming,"Apr 01, 1973","Christchurch, Canterbury",Batsman,Left Handed Bat,
+6,Matthew Hayden,"Oct 29, 1971","Kingaroy, Queensland",Batting Allrounder,Left Handed Bat,Right-Arm Medium
+7,Shadab Jakati,"Nov 27, 1980",,Bowler,Left Handed Bat,Left-Arm Orthodox
+8,Viraj Kadbe,"Nov 18, 1989","Nagpur, Maharashtra",Bowling Allrounder,Right Handed Bat,Right-Arm Legbreak
+9,Suresh Kumar,"Mar 20, 1985",Chennai,Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+10,Abhinav Mukund,"Jan 06, 1990","Madras (Now Chennai), Tamil Nadu",Batsman,Left Handed Bat,
+11,Makhaya Ntini,"Jul 06, 1977","Mdingi, Nr King William'S Town, Cape Province",Bowler,Right Handed Bat,Right-Arm Fast
+12,Parthiv Patel,"Mar 09, 1985","Ahmedabad, Gujarat",WK-Batsman,Left Handed Bat,
+13,Vidyut Sivaramakrishnan,"Dec 03, 1981",,Batting Allrounder,Right Handed Bat,
+14,Palani Amarnath,"Jun 01, 1982",,Bowler,Right Handed Bat,
+15,Arun Karthik,"Feb 15, 1986","Walajapet, Tamil Nadu",Batsman,Right Handed Bat,Right-Arm Legbreak
+16,S Badrinath,"Aug 30, 1980","Madras (Now Chennai), Tamil Nadu",Batsman,Right Handed Bat,Right-Arm Offbreak
+17,Manpreet Gony,"Jan 04, 1984","Roopnagar, Punjab",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+18,Michael Hussey,"May 27, 1975","Morley, Western Australia",Batsman,Left Handed Bat,Right-Arm Medium
+19,Joginder Sharma,"Oct 23, 1983",Rohtak,Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+20,Chamara Kapugedera,"Feb 24, 1987",Kandy,Batsman,Right Handed Bat,Right-Arm Medium
+21,Albie Morkel,"Jun 10, 1981","Vereeniging, Transvaal",Batting Allrounder,Left Handed Bat,Right-Arm Fast-Medium
+22,Muttiah Muralitharan,"Apr 17, 1972",Kandy,Bowler,Right Handed Bat,Right-Arm Offbreak
+23,Jacob Oram,"Jul 28, 1978","Palmerston North, Manawatu",Bowling Allrounder,Left Handed Bat,Right-Arm Fast-Medium
+24,Suresh Raina,"Nov 27, 1986","Muradnagar, Ghaziabad, Uttar Pradesh",Batsman,Left Handed Bat,Right-Arm Offbreak
+25,Napoleon Einstein,"Aug 16, 1989","Madras (Now Chennai), Tamil Nadu",Batsman,Right Handed Bat,Right-Arm Offbreak
+26,VVS Laxman,"Nov 01, 1974","Hyderabad, Andhra Pradesh",Batsman,Right Handed Bat,Right-Arm Offbreak
+27,Halhadar Das,"Dec 10, 1986",,WK-Batsman,Right Handed Bat,
+28,Adam Gilchrist,"Nov 14, 1971","Bellingen, New South Wales",WK-Batsman,Left Handed Bat,Right-Arm Offbreak
+29,Pragyan Ojha,"Sep 05, 1986","Bhubaneswar, Orissa",Bowler,Left Handed Bat,Left-Arm Orthodox
+30,Rohit Sharma,"Apr 30, 1987","Nagpur, Maharashtra",Batsman,Right Handed Bat,Right-Arm Offbreak
+31,Andrew Symonds,"Jun 09, 1975","Birmingham, Warwickshire, England",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+32,Venugopal Rao,"Feb 26, 1982","Visakhapatnam, Andhra Pradesh",Batsman,Right Handed Bat,Right-Arm Offbreak
+33,R.P.Singh,"Dec 06, 1985","Rae Bareli, Uttar Pradesh",Bowler,Right Handed Bat,Left-Arm Fast-Medium
+34,Arjun Yadav,"Dec 23, 1981",,Batsman,Right Handed Bat,
+35,Sanjay Bangar,"Oct 11, 1972","Bid, Maharashtra",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+36,Herschelle Gibbs,"Feb 23, 1974","Green Point, Cape Town, Cape Province",Batsman,Right Handed Bat,
+37,Doddapaneni Kalyankrishna,"Dec 16, 1983",,Batting Allrounder,Right Handed Bat,
+38,Dwaraka Ravi Teja,"Sep 05, 1987",,Batsman,Right Handed Bat,
+39,Shahid Afridi,"Mar 01, 1980",Khyber Agency,Bowling Allrounder,Right Handed Bat,Right-Arm Legbreak
+40,Chamara Silva,"Dec 14, 1979",Panadura,Batsman,Right Handed Bat,Right-Arm Legbreak
+41,Scott Styris,"Jul 10, 1975","Brisbane, Queensland, Australia",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+42,Chaminda Vaas,"Jan 27, 1974",Mattumagala,Bowler,Left Handed Bat,Left-Arm Fast-Medium
+43,Paidikalva Vijaykumar,"Oct 20, 1986",,Bowler,Right Handed Bat,
+44,Nuwan Zoysa,"May 13, 1978",Colombo,Bowler,Left Handed Bat,Left-Arm Fast-Medium
+45,Sarvesh Kumar,"Apr 26, 1989",,Bowling Allrounder,Right Handed Bat,
+46,Virender Sehwag,"Oct 20, 1978",Delhi,Batsman,Right Handed Bat,Right-Arm Offbreak
+47,AB De Villiers,"Feb 17, 1984",Pretoria,WK-Batsman,Right Handed Bat,Right-Arm Medium
+48,Tillakaratne Dilshan,"Oct 14, 1976",Kalutara,Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+49,Brett Geeves,"Jun 13, 1982","Claremont, Tasmania",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+50,Glenn McGrath,"Feb 09, 1970","Dubbo, New South Wales",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+51,Yo Mahesh,"Dec 21, 1987",,Bowling Allrounder,Right Handed Bat,
+52,Amit Mishra,"Nov 24, 1982",Delhi,Bowler,Right Handed Bat,Right-Arm Legbreak
+53,Yogesh Nagar,"Jan 06, 1990",,Batting Allrounder,Right Handed Bat,
+54,Shoaib Malik,"Feb 01, 1982","Sialkot, Punjab",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+55,Manoj Tiwary,"Nov 14, 1985","Howrah, Bengal",Batsman,Right Handed Bat,Right-Arm Legbreak
+56,Rajat Bhatia,"Oct 22, 1979",,Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+57,Shikhar Dhawan,"Dec 05, 1985",Delhi,Batsman,Left Handed Bat,Right-Arm Offbreak
+58,Gautam Gambhir,"Oct 14, 1981",Delhi,Batsman,Left Handed Bat,Right-Arm Legbreak
+59,Dinesh Karthik,"Jun 01, 1985","Madras (Now Chennai), Tamil Nadu",WK-Batsman,Right Handed Bat,
+60,Farveez Maharoof,"Sep 07, 1984",Colombo,Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+61,Mithun Manhas,"Oct 12, 1979",,Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+62,Mohammad Asif,"Dec 20, 1982","Sheikhupura, Punjab",Bowler,Left Handed Bat,Right-Arm Fast-Medium
+63,Pradeep Sangwan,"Nov 05, 1990","Rasiwas, Delhi",Bowler,Right Handed Bat,Left-Arm Fast-Medium
+64,Mayank Tehlan,"Oct 11, 1986",,Bowling Allrounder,Right Handed Bat,
+65,Tejashwi Yadav,"Nov 09, 1989",,Batsman,Right Handed Bat,
+66,Sourav Ganguly,"Jul 08, 1972","Calcutta (Now Kolkata), Bengal",Batsman,Left Handed Bat,Right-Arm Medium
+67,Aakash Chopra,"Sep 19, 1977","Agra, Uttar Pradesh",Batsman,Right Handed Bat,
+68,Ashok Dinda,"Mar 25, 1984","Medinipur, Calcutta (Now Kolkata)",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+69,Brad Hodge,"Dec 29, 1974","Sandringham, Victoria",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+70,Iqbal Abdulla,"Dec 02, 1989",Azamgarh,Bowler,Left Handed Bat,Left-Arm Orthodox
+71,Siddarth Kaul,"May 19, 1990",,Bowler,Right Handed Bat,Right-Arm Medium
+72,Ajantha Mendis,"Mar 11, 1985",Moratuwa,Bowler,Right Handed Bat,Right-Arm Legbreak
+73,Ricky Ponting,"Dec 19, 1974","Launceston, Tasmania",Batsman,Right Handed Bat,Right-Arm Medium
+74,Salman Butt,"Oct 07, 1984","Lahore, Punjab",Batsman,Left Handed Bat,Right-Arm Offbreak
+75,Shoaib Akhtar,"Aug 13, 1975","Rawalpindi, Punjab",Bowler,Right Handed Bat,Right-Arm Fast
+76,Tatenda Taibu,"May 14, 1983",Harare,WK-Batsman,Right Handed Bat,Right-Arm Offbreak
+77,Ajit Agarkar,"Dec 04, 1977","Bombay (Now Mumbai), Maharashtra",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+78,Debabrata Das,"Sep 22, 1986",,Batsman,Right Handed Bat,Right-Arm Legbreak
+79,Chris Gayle,"Sep 21, 1979","Kingston, Jamaica",Batsman,Left Handed Bat,Right-Arm Offbreak
+80,David Hussey,"Jul 15, 1977","Morley, Western Australia",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+81,Murali Kartik,"Sep 11, 1976","Madras (Now Chennai), Tamil Nadu",Bowler,Left Handed Bat,Left-Arm Orthodox
+82,Brendon McCullum,"Sep 27, 1981","Dunedin, Otago",WK-Batsman,Right Handed Bat,
+83,Mohammad Hafeez,"Oct 17, 1980","Sargodha, Punjab",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+84,Wriddhiman Saha,"Oct 24, 1984",Shaktigarh,WK-Batsman,Right Handed Bat,
+85,Ishant Sharma,"Sep 02, 1988",Delhi,Bowler,Right Handed Bat,Right-Arm Fast
+86,Laxmi Shukla,"May 06, 1981","Howrah (Now Haora), Bengal",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+87,Umar Gul,"Apr 14, 1984","Peshawar, North-Western Frontier Province",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+88,Yuvraj Singh,"Dec 12, 1981",Chandigarh,Batsman,Left Handed Bat,Left-Arm Orthodox
+89,Ajitesh Argal,"Sep 21, 1988","Bhopal, Madhya Pradesh",Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+90,Pankaj Dharmani,"Sep 27, 1974",Delhi,Batting Allrounder,Right Handed Bat,
+91,Gagandeep Singh,"Oct 03, 1981",,Batting Allrounder,Right Handed Bat,
+92,James Hopes,"Oct 24, 1978","Townsville, Queensland",Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+93,Uday Kaul,"Dec 02, 1987",,WK-Batsman,Left Handed Bat,
+94,Brett Lee,"Nov 08, 1976","Wollongong, New South Wales",Bowler,Right Handed Bat,Right-Arm Fast
+95,Kyle Mills,"Mar 15, 1979",Auckland,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+96,Irfan Pathan,"Oct 27, 1984","Baroda, Gujarat",Bowling Allrounder,Left Handed Bat,Left-Arm Fast-Medium
+97,Ramesh Powar,"May 20, 1978","Bombay (Now Mumbai), Maharashtra",Bowler,Right Handed Bat,Right-Arm Offbreak
+98,Kumar Sangakkara,"Oct 27, 1977",Matale,Batsman,Left Handed Bat,Right-Arm Offbreak
+99,Vikram Singh,"Sep 17, 1984","Chandigarh, Punjab, India",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+100,S Sreesanth,"Feb 06, 1983","Kothamangalam, Kerala",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+101,Mahela Jayawardene,"May 27, 1977",Colombo,Batsman,Right Handed Bat,Right-Arm Medium
+102,Piyush Chawla,"Dec 24, 1988","Aligarh, Uttar Pradesh",Bowling Allrounder,Left Handed Bat,Right-Arm Legbreak
+103,Rishi Dhawan,"Feb 19, 1990","Mandi, Himachal Pradesh",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+104,Karan Goel,"Dec 24, 1986",,Batting Allrounder,Right Handed Bat,
+105,Simon Katich,"Aug 21, 1975","Middle Swan, Western Australia",Batsman,Left Handed Bat,Left-Arm Chinaman
+106,Shaun Marsh,"Jul 09, 1983","Narrogin, Western Australia",Batsman,Left Handed Bat,Left-Arm Orthodox
+107,Wilkin Mota,"Sep 20, 1981",,Batting Allrounder,Right Handed Bat,
+108,Luke Pomersbach,"Sep 28, 1984","Bentley, Perth, Western Australia",Batsman,Left Handed Bat,Right-Arm Offbreak
+109,Nitin Saini,"Oct 28, 1988",Rohtak,WK-Batsman,Right Handed Bat,
+110,Ramnaresh Sarwan,"Jun 23, 1980","Wakenaam Island, Essequibo, Guyana",Batsman,Right Handed Bat,Right-Arm Legbreak
+111,Sunny Sohal,"Nov 10, 1987",,Batsman,Right Handed Bat,
+112,Tanmay Srivastava,"Nov 07, 1989",,Batsman,Left Handed Bat,
+113,Sachin Tendulkar,"Apr 24, 1973","Bombay (Now Mumbai), Maharashtra",Batsman,Right Handed Bat,Right-Arm Legbreak
+114,Dwayne Bravo,"Oct 07, 1983","Santa Cruz, Trinidad",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+115,Siddharth Chitnis,"May 06, 1987",,Batsman,Right Handed Bat,Right-Arm Offbreak
+116,Dilhara Fernando,"Jul 19, 1979",Colombo,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+117,Sanath Jayasuriya,"Jun 30, 1969",Matara,Batting Allrounder,Left Handed Bat,Left-Arm Orthodox
+118,Dhawal Kulkarni,"Dec 10, 1988",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+119,Ashish Nehra,"Apr 29, 1979",Delhi,Bowler,Right Handed Bat,Left-Arm Fast-Medium
+120,Manish Pandey,"Sep 10, 1989","Nainital, Uttaranchal",Batsman,Right Handed Bat,Right-Arm Offbreak
+121,Shaun Pollock,"Jul 16, 1973","Port Elizabeth, Cape Province",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+122,Ajinkya Rahane,"Jun 06, 1988","Ashwi-Kd, Maharashtra",Batsman,Right Handed Bat,Right-Arm Medium
+123,Luke Ronchi,"Apr 23, 1981","Dannevirke, Manawatu, New Zealand",WK-Batsman,Right Handed Bat,
+124,Dwayne Smith,"Apr 12, 1983","Storey Gap, Codrington Hill, St Michael, Barbados",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+125,Yogesh Takawale,"Nov 05, 1984",,WK-Batsman,Right Handed Bat,
+126,Saurabh Tiwary,"Dec 30, 1989","Jamshedpur, Bihar",Batsman,Left Handed Bat,
+127,Vikrant Yeligati,"Apr 23, 1985",,Batting Allrounder,Right Handed Bat,
+128,Loots Bosman,"Apr 14, 1977","Kimberley, Cape Province",Batsman,Right Handed Bat,Right-Arm Medium
+129,Ankeet Chavan,"Oct 28, 1985",,Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+130,Gaurav Dhiman,"Dec 16, 1986",New Delhi,Batsman,Right Handed Bat,Right-Arm Fast-Medium
+131,Harbhajan Singh,"Jul 03, 1980","Jullundur (Now Jalandhar), Punjab",Bowler,Right Handed Bat,Right-Arm Offbreak
+132,Musavir Khote,"Apr 22, 1980",,Batting Allrounder,Right Handed Bat,
+133,Abhishek Nayar,"Oct 08, 1983","Secunderabad, Hyderabad",Batting Allrounder,Left Handed Bat,Right-Arm Medium
+134,Andre Nel,"Jul 15, 1977","Germiston, Transvaal",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+135,Rajesh Pawar,"Sep 06, 1979",,Batting Allrounder,Right Handed Bat,
+136,Ashwell Prince,"May 28, 1977","Port Elizabeth, Cape Province",Batsman,Left Handed Bat,Right-Arm Offbreak
+137,Rohan Raje,"Sep 03, 1986",,Batting Allrounder,Right Handed Bat,
+138,Pinal Shah,"Nov 03, 1987",,WK-Batsman,Right Handed Bat,
+139,Swapnil Singh,"Jan 22, 1991","Rae Bareilly, Uttar Pradesh",Bowling Allrounder,Right Handed Bat,Left-Arm Orthodox
+140,Dominic Thornely,"Oct 01, 1978",,Batting Allrounder,Right Handed Bat,
+141,Robin Uthappa,"Nov 11, 1985","Coorg, Karnataka",WK-Batsman,Right Handed Bat,Right-Arm Medium
+142,Rahul Dravid,"Jan 11, 1973","Indore, Madhya Pradesh",Batsman,Right Handed Bat,Right-Arm Offbreak
+143,Neravanda Aiyappa,"Oct 19, 1979",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+144,KP Appanna,"Dec 20, 1988",,Bowler,Right Handed Bat,Left-Arm Orthodox
+145,Mark Boucher,"Dec 03, 1976","East London, Cape Province",WK-Batsman,Right Handed Bat,Right-Arm Medium
+146,Bharath Chipli,"Jan 27, 1983",,Batsman,Right Handed Bat,
+147,Wasim Jaffer,"Feb 16, 1978","Bombay (Now Mumbai), Maharashtra",Batsman,Right Handed Bat,Right-Arm Offbreak
+148,Jacques Kallis,"Oct 16, 1975","Pinelands, Cape Town, Cape Province",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+149,Virat Kohli,"Nov 05, 1988",Delhi,Batsman,Right Handed Bat,Right-Arm Medium
+150,Anil Kumble,"Oct 17, 1970","Bangalore, Karnataka",Bowler,Right Handed Bat,Right-Arm Legbreak
+151,Ashley Noffke,"Apr 30, 1977","Nambour, Queensland",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+152,Dale Steyn,"Jun 27, 1983",Phalaborwa,Bowler,Right Handed Bat,Right-Arm Fast
+153,Vinay Kumar,"Apr 21, 1977",Delhi,Bowler,Right Handed Bat,
+154,Abdur Razzak,"Jun 15, 1982",Khulna,Bowler,Left Handed Bat,Left-Arm Orthodox
+155,Jagadeesh Arunkumar,"Jan 18, 1975",,Batting Allrounder,Right Handed Bat,
+156,Shivnarine Chanderpaul,"Aug 16, 1974","Unity Village, East Coast, Demerara, Guyana",Batsman,Left Handed Bat,Right-Arm Legbreak
+157,Shreevats Goswami,"May 18, 1989","Calcutta (Now Kolkata), Bengal",WK-Batsman,Left Handed Bat,
+158,Sunil Joshi,"Jun 06, 1970","Gadag, Karnataka",Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+159,Zaheer Khan,"Oct 07, 1978","Shrirampur, Maharashtra",Bowler,Right Handed Bat,Left-Arm Fast-Medium
+160,Praveen Kumar,"Oct 02, 1986","Meerut, Uttar Pradesh",Bowler,Right Handed Bat,Right-Arm Medium
+161,Misbah-ul-Haq,"May 28, 1974","Mianwali, Punjab",Batsman,Right Handed Bat,Right-Arm Legbreak
+162,Devraj Patil,"Dec 06, 1984",,WK-Batsman,Right Handed Bat,
+163,Ross Taylor,"Mar 08, 1984","Lower Hutt, Wellington",Batsman,Right Handed Bat,Right-Arm Offbreak
+164,Cameron White,"Aug 18, 1983","Bairnsdale, Victoria",Batsman,Right Handed Bat,Right-Arm Legbreak
+165,Shane Warne,"Sep 13, 1969","Ferntree Gully, Victoria",Bowler,Right Handed Bat,Right-Arm Legbreak
+166,Swapnil Asnodkar,"Mar 29, 1984","Porvorim, Goa, India",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+167,Mohammad Kaif,"Dec 01, 1980","Allahabad, Uttar Pradesh",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+168,Darren Lehmann,"Feb 05, 1970","Gawler, South Australia",Batting Allrounder,Left Handed Bat,Left-Arm Orthodox
+169,Morne Morkel,"Oct 06, 1984","Vereeniging, Transvaal",Bowler,Left Handed Bat,Right-Arm Fast
+170,Munaf Patel,"Jul 12, 1983","Ikhar, Gujarat",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+171,Yusuf Pathan,"Nov 17, 1982","Baroda, Gujarat",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+172,Anup Revandkar,"Nov 25, 1987","Bombay (Now Mumbai), Maharashtra",Batsman,Right Handed Bat,Right-Arm Fast-Medium
+173,Jaydev Shah,"May 04, 1983","Rajkot, Gujarat",Batsman,Left Handed Bat,Right-Arm Offbreak
+174,Sohail Tanvir,"Dec 12, 1984","Rawalpindi, Punjab",Bowler,Left Handed Bat,Left-Arm Fast-Medium
+175,Shane Watson,"Jun 17, 1981","Ipswich, Queensland",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+176,Aditya Angle,"Nov 02, 1983",,Bowler,Right Handed Bat,
+177,Ravindra Jadeja,"Dec 06, 1988","Navagam-Khed, Saurashtra",Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+178,Kamran Akmal,"Jan 13, 1982","Lahore, Punjab",WK-Batsman,Right Handed Bat,
+179,Taruwar Kohli,"Dec 17, 1988",,Batting Allrounder,Right Handed Bat,
+180,Parag More,"Jun 08, 1985","Pune, Maharashtra",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+181,Pankaj Singh,"May 06, 1985",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+182,Niraj Patel,"Mar 26, 1981",,Batting Allrounder,Right Handed Bat,
+183,Mahesh Rawat,"Oct 25, 1985",Faridabad,WK-Batsman,Right Handed Bat,
+184,Dinesh Salunkhe,"Nov 12, 1982",,Batting Allrounder,Right Handed Bat,
+185,Graeme Smith,"Feb 01, 1981","Johannesburg, Transvaal",Batsman,Left Handed Bat,Right-Arm Offbreak
+186,Siddharth Trivedi,"Sep 04, 1982",,Bowler,Right Handed Bat,Right-Arm Medium
+187,Younis Khan,"Nov 29, 1977","Mardan, North-West Frontier Province",Batsman,Right Handed Bat,Right-Arm Medium
+188,Thilan Thushara,"Mar 01, 1981",Balapitiya,Bowler,Left Handed Bat,Left-Arm Fast-Medium
+189,Murali Vijay,"Apr 01, 1984",Chennai,Batsman,Right Handed Bat,Right-Arm Offbreak
+190,George Bailey,"Sep 07, 1982","Launceston, Tasmania",Batsman,Right Handed Bat,Right-Arm Medium
+191,Andrew Flintoff,"Dec 06, 1977","Preston, Lancashire",Bowling Allrounder,Right Handed Bat,Right-Arm Fast
+192,Sudeep Tyagi,"Sep 17, 1987",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+193,Azhar Bilakhia,"May 12, 1984",,Batsman,Right Handed Bat,
+194,Ryan Harris,"Oct 11, 1979","Nowra, New South Wales",Bowler,Right Handed Bat,Right-Arm Fast
+195,Shoaib Ahmed,"Nov 19, 1987",,Bowler,Right Handed Bat,
+196,RP Singh,"Dec 06, 1985","Rae Bareli, Uttar Pradesh",Bowler,Right Handed Bat,Left-Arm Fast-Medium
+197,Abhinav Kumar,"Nov 07, 1984",,Batsman,Right Handed Bat,
+198,Manvinder Bisla,"Dec 27, 1984",,WK-Batsman,Right Handed Bat,
+199,Fidel Edwards,"Feb 06, 1982","Gays, St Peter, Barbados",Bowler,Right Handed Bat,Right-Arm Fast
+200,Harmeet Singh,"Oct 09, 1987",,Bowler,Right Handed Bat,Right-Arm Medium
+201,Jaskaran Singh,"Sep 04, 1989",,Bowler,Right Handed Bat,
+202,Tirumalsetti Suman,"Dec 15, 1983","Hyderabad, Andhra Pradesh",Batsman,Right Handed Bat,Right-Arm Offbreak
+203,Paul Collingwood,"May 26, 1976","Shotley Bridge, Co Durham",Batsman,Right Handed Bat,Right-Arm Medium
+204,Dirk Nannes,"May 16, 1976","Mount Waverly, Melbourne, Victoria",Bowler,Right Handed Bat,Left-Arm Fast-Medium
+205,Aavishkar Salvi,"Oct 20, 1981","Bombay (Now Mumbai), Maharashtra",Bowler,Right Handed Bat,Right-Arm Medium
+206,Owais Shah,"Oct 22, 1978","Karachi, Sind, Pakistan",Batsman,Right Handed Bat,Right-Arm Offbreak
+207,David Warner,"Oct 27, 1986","Paddington, New South Wales",Batsman,Left Handed Bat,Right-Arm Legbreak
+208,Umesh Yadav,"Oct 25, 1987",,Bowler,Right Handed Bat,Right-Arm Fast
+209,Andrew McDonald,"Jun 05, 1981","Wodonga, Victoria",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+210,Daniel Vettori,"Jan 27, 1979",Auckland,Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+211,Anureet Singh,"Mar 02, 1988",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+212,Moises Henriques,"Feb 01, 1987","Funchal, Portugal",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+213,Charl Langeveldt,"Dec 17, 1974","Stellenbosch, Cape Province",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+214,Angelo Mathews,"Jun 02, 1987",Colombo,Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+215,Morne van Wyk,"Mar 20, 1979","Bloemfontein, Orange Free State",WK-Batsman,Right Handed Bat,Left-Arm Orthodox
+216,Rohan Banerjee,"Dec 10, 1988","Bijpur, Bengal",Batsman,Left Handed Bat,Right-Arm Medium
+217,Arindam Ghosh,"Oct 19, 1986",,Batting Allrounder,Right Handed Bat,
+218,Mashrafe Mortaza,"Oct 05, 1983","Norail, Jessore",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+219,Shoaib Shaikh,"Jan 18, 1987","Bombay (Now Mumbai), Maharashtra",Bowler,Right Handed Bat,Right-Arm Medium
+220,Yashpal Singh,"Nov 27, 1981",Delhi,Batting Allrounder,Right Handed Bat,
+221,Sourav Sarkar,"Dec 15, 1984",,Batting Allrounder,Right Handed Bat,
+222,Ranadeb Bose,"Feb 27, 1979",,Batting Allrounder,Right Handed Bat,
+223,Amanpreet Singh,"Sep 16, 1989","Chandigarh, Punjab",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+224,Burt Cockley,"Apr 03, 1986",,Bowler,Right Handed Bat,
+225,Vikramjeet Singh Malik,"May 09, 1983","Vishakapatnam, Andhra Pradesh",Bowler,Right Handed Bat,Right-Arm Medium
+226,Yusuf Abdulla,"Jan 17, 1983","Johannesburg, Transvaal",Batting Allrounder,Left Handed Bat,Left-Arm Fast-Medium
+227,Sahil Kukreja,"Jul 09, 1985","Bombay (Now Mumbai), Maharashtra",Batsman,Right Handed Bat,
+228,Ryan Ninan,"Nov 19, 1985",,Batting Allrounder,Right Handed Bat,
+229,Ravikant Shukla,"Jul 07, 1987","Rae Bareli, Uttar Pradesh",Batsman,Left Handed Bat,Right-Arm Medium
+230,Lasith Malinga,"Aug 28, 1983",Galle,Bowler,Right Handed Bat,Right-Arm Fast
+231,Mohammad Ashraful,"Jul 07, 1984",Dhaka,Batsman,Right Handed Bat,Right-Arm Legbreak
+232,Rahil Shaikh,"Jun 12, 1985",,Bowler,Right Handed Bat,
+234,Ryan McLaren,"Feb 09, 1983","Kimberley, Cape Province",Bowling Allrounder,Left Handed Bat,Right-Arm Fast-Medium
+235,Chetanya Nanda,"Mar 29, 1979",,Batsman,Right Handed Bat,
+236,Balachandra Akhil,"Oct 07, 1977",,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+237,Sreenath Aravind,"Apr 08, 1984","Bangalore, Karnataka",Bowler,Left Handed Bat,Left-Arm Fast-Medium
+238,Saurabh Bandekar,"Nov 16, 1987","Bombay (Now Mumbai), Maharashtra",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+239,Rajesh Bishnoi,"Oct 08, 1987",,Batsman,Right Handed Bat,
+240,Nathan Bracken,"Sep 12, 1977","Penrith, New South Wales",Bowler,Right Handed Bat,Left-Arm Fast-Medium
+241,Dillon du Preez,"Nov 08, 1981","Port Elizabeth, Cape Province",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+242,Udit Patel,"Aug 31, 1984",,Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+243,Jitendra Arun Patil,"Sep 09, 1989","Pachora, Maharashtra",Bowling Allrounder,Right Handed Bat,Left-Arm Medium
+244,RK Sabharwal,"Jan 08, 1978","Kanpur, Uttar Pradesh",WK-Batsman,Right Handed Bat,
+245,Tinu Yohannan,"Feb 18, 1979","Quilon (Now Kollam), Kerala",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+246,Rangaraj Suthesh,"Apr 08, 1987",Palani,Bowling Allrounder,Left Handed Bat,Left-Arm Medium
+247,Raajoo Bhatkal,"Sep 01, 1985",,Batting Allrounder,Right Handed Bat,
+248,CM Gautam,"Mar 08, 1986","Bangalore, Karnataka",WK-Batsman,Right Handed Bat,
+249,Kedar Jadhav,"Mar 26, 1985","Pune, Maharashtra",Batsman,Right Handed Bat,Right-Arm Offbreak
+250,Ishank Jaggi,"Jan 27, 1989",Bacheli,Batsman,Right Handed Bat,Right-Arm Legbreak
+252,Abhimanyu Mithun,"Oct 25, 1989",Bangalore,Bowler,Right Handed Bat,Right-Arm Medium
+253,Jesse Ryder,"Aug 06, 1984","Masterton, Wellington",Batting Allrounder,Left Handed Bat,Right-Arm Medium
+254,Karn Sharma,"Oct 23, 1987","Meerut, Uttar Pradesh",Bowling Allrounder,Left Handed Bat,Right-Arm Legbreak
+255,Roelof van der Merwe,"Dec 31, 1984","Johannesburg, Transvaal",Bowling Allrounder,Right Handed Bat,Left-Arm Orthodox
+256,Johan Botha,"May 02, 1982","Johannesburg, Transvaal",Bowling Allrounder,Right Handed Bat,Right-Arm Offbreak
+257,Shane Harwood,"Mar 01, 1974","Ballarat, Victoria",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+258,Justin Langer,"Nov 21, 1970","Perth, Western Australia",Batsman,Left Handed Bat,Right-Arm Medium
+259,Mohammed Arif,"Sep 30, 1990",Rajasthan,Bowler,Left Handed Bat,Right-Arm Medium
+260,Abhishek Raut,"Mar 03, 1987","Jaipur Road, Maharashtra",Batting Allrounder,Right Handed Bat,
+261,Atul Sharma,"May 01, 1989","Varanasi, Uttar Pradesh",Bowler,Right Handed Bat,Right-Arm Fast
+262,Amit Singh,"Jun 21, 1981",,Bowler,Right Handed Bat,Right-Arm Medium
+263,Shaun Tait,"Feb 22, 1983","Bedford Park, Adelaide, South Australia",Bowler,Right Handed Bat,Right-Arm Fast
+264,Paul Valthaty,"Dec 07, 1983",,Batsman,Right Handed Bat,Right-Arm Medium
+265,Pushkaraj Sudhakar Chavan,"May 18, 1989",Mumbai,Bowler,Left Handed Bat,Left-Arm Orthodox
+266,Lee Carseldine,"Nov 17, 1975",,Batting Allrounder,Right Handed Bat,
+267,Raiphi Gomez,"Oct 16, 1985",,Batting Allrounder,Right Handed Bat,
+268,Tyron Henderson,"Aug 01, 1974","Durban, Natal",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+269,Kamran Khan,"Mar 10, 1991",,Bowler,Right Handed Bat,
+270,Abdulahad Malik,"Aug 09, 1986","Hansot, Gujarat",WK-Batsman,Left Handed Bat,
+271,Naman Ojha,"Jul 20, 1983","Ujjain, Madhya Pradesh",WK-Batsman,Right Handed Bat,
+272,Rob Quiney,"Aug 20, 1982","Brighton, Victoria",Batsman,Left Handed Bat,Right-Arm Medium
+273,Gajendra Singh,"Sep 10, 1988",Bikaner,Bowler,Right Handed Bat,Left-Arm Orthodox
+274,Chandrasekar Ganapathy,"Jun 10, 1981",,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+275,Thisara Perera,"Apr 03, 1989",Colombo,Bowling Allrounder,Left Handed Bat,Right-Arm Medium
+276,Hemang Badani,"Nov 14, 1976","Madras (Now Chennai), Tamil Nadu",Batsman,Left Handed Bat,Left-Arm Orthodox
+277,Doug Bollinger,"Jul 24, 1981","Baulkham Hills, Sydney, New South Wales",Bowler,Left Handed Bat,Left-Arm Fast-Medium
+278,Justin Kemp,"Oct 02, 1977","Queenstown, Cape Province",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+279,Ashish Reddy,"Feb 24, 1991",,Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+280,Mitchell Marsh,"Oct 20, 1991","Attadale, Perth",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+281,Kemar Roach,"Jun 30, 1988","St. Lucy, Barbados",Bowler,Right Handed Bat,Right-Arm Fast
+282,Bodapati Sumanth,"May 10, 1988",,Batsman,Right Handed Bat,Right-Arm Fast-Medium
+283,Anirudh Singh,"Aug 02, 1980",,Batsman,Left Handed Bat,Right-Arm Medium
+284,Mohnish Mishra,"Feb 09, 1984",,Batsman,Right Handed Bat,Right-Arm Offbreak
+285,Rahul Sharma,"Nov 30, 1986",,Bowler,Right Handed Bat,Right-Arm Legbreak
+286,Joginder Singh,"Jul 11, 1980",Delhi,Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+287,Shashi Ranjan,"Nov 02, 1981","Jamalpur, Bihar",Bowler,Right Handed Bat,Right-Arm Offbreak
+288,Sarabjit Ladda,"Jul 10, 1986",,Bowler,Right Handed Bat,Right-Arm Legbreak
+289,Wayne Parnell,"Jul 30, 1989","Port Elizabeth, Cape Province",Bowling Allrounder,Left Handed Bat,Left-Arm Fast-Medium
+290,Sarandeep Singh,"Oct 21, 1979","Amritsar, Punjab",Bowler,Right Handed Bat,Right-Arm Offbreak
+291,Rohan Gavaskar,"Feb 20, 1976","Kanpur, Uttar Pradesh",Batsman,Left Handed Bat,Left-Arm Orthodox
+292,Chirag Pathak,"Feb 02, 1987",Keshod,Batsman,Left Handed Bat,
+293,Varun Aaron,"Oct 29, 1989",,Bowler,Right Handed Bat,Right-Arm Fast
+294,Shane Bond,"Jun 07, 1975","Christchurch, Canterbury",Bowler,Right Handed Bat,Right-Arm Fast
+295,Eklak Ahmid,"Oct 12, 1984",Kolkata,Bowler,Left Handed Bat,Left-Arm Fast-Medium
+296,Harshad Khadiwale,"Oct 21, 1988","Pune, Maharashtra",Batsman,Right Handed Bat,Right-Arm Medium
+297,Cheteshwar Pujara,"Jan 25, 1988",,Batsman,Right Handed Bat,Right-Arm Legbreak
+298,Ganapathi Vignesh,"Sep 11, 1981",,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+299,Mohnish Parmar,"Apr 12, 1988",,Bowler,Right Handed Bat,
+300,Love Ablish,"Dec 03, 1982",,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+301,Adrian Barath,"Apr 14, 1990",,Batsman,Right Handed Bat,Right-Arm Offbreak
+302,Reetinder Sodhi,"Oct 18, 1980","Patiala, Punjab",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+303,Shalabh Srivastava,"Sep 22, 1981",,Bowler,Right Handed Bat,Left-Arm Fast-Medium
+304,Rusty Theron,"Jul 24, 1985",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+305,Bipul Sharma,"Sep 28, 1983","Amritsar, Punjab",Bowler,Left Handed Bat,Left-Arm Orthodox
+306,Ravi Bopara,"May 04, 1985","Forest Gate, London",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+307,Ishan Malhotra,"May 22, 1984",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+308,Ali Murtaza,"Jan 01, 1990",,Bowler,Left Handed Bat,Left-Arm Orthodox
+309,Ambati Rayudu,"Sep 23, 1985","Guntur, Andhra Pradesh",WK-Batsman,Right Handed Bat,Right-Arm Offbreak
+310,Syed Sahabuddin,"Jul 01, 1979","Kadiri, Andhra Pradesh",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+311,Aditya Tare,"Nov 07, 1987","Bombay (Now Mumbai), Maharashtra",WK-Batsman,Right Handed Bat,
+312,Abu Nechim,"Nov 05, 1988","Guwahati, Assam",Bowler,Right Handed Bat,Right-Arm Medium
+313,Chandan Madan,"Oct 15, 1982",,WK-Batsman,Right Handed Bat,
+314,Graham Napier,"Jan 06, 1980",,Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+315,Kieron Pollard,"May 12, 1987","Tacarigua, Trinidad",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+316,Rajagopal Sathish,"Jan 14, 1981",,Batsman,Right Handed Bat,Right-Arm Medium
+317,Rahul Shukla,"Aug 28, 1990",,Bowler,Right Handed Bat,Right-Arm Medium
+318,Eoin Morgan,"Sep 10, 1986",Dublin,Batsman,Left Handed Bat,Right-Arm Medium
+319,Kevin Pietersen,"Jun 27, 1980","Pietermaritzburg, Natal",Batsman,Right Handed Bat,Right-Arm Offbreak
+320,Sridharan Sriram,"Feb 21, 1976","Madras (Now Chennai), Tamil Nadu",Batting Allrounder,Left Handed Bat,Left-Arm Orthodox
+321,Steven Smith,"Jun 02, 1989","Sydney, New South Wales",Batsman,Right Handed Bat,Right-Arm Legbreak
+322,Aaron Finch,"Nov 17, 1986","Colac, Victoria",Batsman,Right Handed Bat,Left-Arm Orthodox
+323,Syed Quadri,"Dec 02, 1981",,Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+324,Adam Voges,"Oct 04, 1979","Subiaco, Perth, Western Australia",Batsman,Right Handed Bat,Left-Arm Orthodox
+325,Faiz Fazal,"Sep 07, 1985","Nagpur, Maharashtra",Batsman,Left Handed Bat,Right-Arm Medium
+326,Abhishek Jhunjhunwala,"Dec 01, 1982","Calcutta (Now Kolkata), Bengal",Batsman,Right Handed Bat,Right-Arm Offbreak
+327,Michael Lumb,"Feb 12, 1980",,Batsman,Left Handed Bat,Right-Arm Medium
+328,Sumit Narwal,"Apr 16, 1982",,Batting Allrounder,Left Handed Bat,Right-Arm Medium
+329,Amit Paunikar,"Apr 18, 1988",Nagpur,WK-Batsman,Right Handed Bat,
+330,Amit Uniyal,"Nov 21, 1981",,Bowler,Left Handed Bat,Right-Arm Fast-Medium
+331,Shrikant Wagh,"Oct 09, 1988",Chikhli,Bowling Allrounder,Left Handed Bat,Left-Arm Fast-Medium
+332,Damien Martyn,"Oct 21, 1971","Darwin, Northern Territory",Batsman,Right Handed Bat,Right-Arm Medium
+333,Faf du Plessis,"Jul 13, 1984",Pretoria,Batsman,Right Handed Bat,Right-Arm Legbreak
+334,Ben Hilfenhaus,"Mar 15, 1983","Ulverstone, Tasmania",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+335,Suraj Randiv,"Jan 30, 1985",,Bowler,Right Handed Bat,Right-Arm Offbreak
+336,Nuwan Kulasekara,"Jul 22, 1982",Nittambuwa,Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+337,Tim Southee,"Dec 11, 1988","Whangarei, Northland",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+338,K Vasudevadas,"Jan 26, 1985",,Batsman,Left Handed Bat,Left-Arm Orthodox
+339,Anand Rajan,"Apr 17, 1987",,Bowler,Right Handed Bat,Right-Arm Medium
+340,Ankit Sharma,"Apr 20, 1991",,Bowler,Left Handed Bat,Left-Arm Orthodox
+341,Daniel Christian,"May 04, 1983","Camperdown, Sydney, New South Wales",Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+342,Kedar Devdhar,"Dec 14, 1989",,WK-Batsman,Right Handed Bat,
+343,Chris Lynn,"Apr 10, 1990",,Batsman,Right Handed Bat,Left-Arm Orthodox
+344,Akash Bhandari,"Jun 10, 1993","Hyderabad, Andhra Pradesh",Bowler,Right Handed Bat,Right-Arm Legbreak
+345,Travis Birt,"Dec 09, 1981",,Batsman,Left Handed Bat,Right-Arm Medium
+346,Robin Bist,"Nov 02, 1987",,Batsman,Right Handed Bat,Right-Arm Offbreak
+347,Unmukt Chand,"Mar 26, 1993",Delhi,Batsman,Right Handed Bat,Right-Arm Offbreak
+348,Ajit Chandila,"Dec 05, 1983","Faridabad, Punjab",Bowling Allrounder,Right Handed Bat,Right-Arm Offbreak
+349,Robert Frylinck,"Sep 27, 1984",Durban,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+350,Colin Ingram,"Jul 03, 1985",Port Elizabeth,Batsman,Left Handed Bat,Right-Arm Legbreak
+351,Shahbaz Nadeem,"Aug 12, 1989","Bokaro, Bihar",Bowler,Right Handed Bat,Left-Arm Orthodox
+352,Prashant Naik,"Sep 02, 1986","Pune, Maharashtra",Batsman,Right Handed Bat,Right-Arm Legbreak
+353,Vikas Mishra,"Dec 27, 1992",,Bowler,Right Handed Bat,Left-Arm Orthodox
+354,Matthew Wade,"Dec 26, 1987","Hobart, Tasmania",WK-Batsman,Left Handed Bat,
+355,Vivek Yadav,"Dec 09, 1984",,Bowler,Right Handed Bat,Right-Arm Legbreak
+356,Brad Haddin,"Oct 23, 1977","Cowra, New South Wales",WK-Batsman,Right Handed Bat,
+357,James Pattinson,"May 03, 1990","Melbourne, Victoria",Bowler,Left Handed Bat,Right-Arm Fast
+359,Shakib Al Hasan,"Mar 24, 1987","Magura, Jessore",Batting Allrounder,Left Handed Bat,Left-Arm Orthodox
+360,Ryan ten Doeschate,"Jun 30, 1980","Port Elizabeth, Cape Province",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+361,Jaydev Unadkat,"Oct 18, 1991",Porbandar,Bowler,Right Handed Bat,Left-Arm Fast-Medium
+362,Deepak Chougule,"Apr 01, 1984",,Batsman,Right Handed Bat,
+363,Gnaneswara Rao,"Aug 25, 1984",,Batting Allrounder,Right Handed Bat,
+364,John Hastings,"Nov 04, 1985","Penrith, New South Wales",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+365,Michael Klinger,"Jul 04, 1980","Kew, Melbourne, Victoria",Batsman,Right Handed Bat,
+366,Sushant Marathe,"Oct 16, 1985","Bombay (Now Mumbai), Maharashtra",WK-Batsman,Left Handed Bat,Right-Arm Legbreak
+367,Steve OKeefe,"Dec 09, 1984",Malaysia,Bowling Allrounder,Right Handed Bat,Left-Arm Orthodox
+368,Prasanth Padmanabhan,"Sep 03, 1984",,Batting Allrounder,Left Handed Bat,Left-Arm Orthodox
+369,Prasanth Parameswaran,"May 30, 1985",,Bowler,Right Handed Bat,Left-Arm Medium
+370,Amit Yadav,"Oct 10, 1989",,Bowling Allrounder,Right Handed Bat,Right-Arm Offbreak
+371,Bhargav Bhatt,"May 13, 1990",,Bowler,Left Handed Bat,Left-Arm Orthodox
+372,Paras Dogra,"Nov 19, 1984","Palampur, Himachal Pradesh",Batsman,Right Handed Bat,Right-Arm Legbreak
+373,Mandeep Singh,"Dec 18, 1991","Jalandhar, Punjab",Batsman,Right Handed Bat,Right-Arm Medium
+374,Nathan Rimmington,"Nov 11, 1982","Redcliffe, Queensland",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+375,Sunny Singh,"Dec 18, 1986",,Batsman,Right Handed Bat,Right-Arm Medium
+376,Stuart Broad,"Jun 24, 1986",Nottingham,Bowling Allrounder,Left Handed Bat,Right-Arm Fast-Medium
+377,Dimitri Mascarenhas,"Oct 30, 1977","Chiswick, Middlesex",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+378,David Miller,"Jun 10, 1989","Pietermaritzburg, Natal",Batsman,Left Handed Bat,Right-Arm Offbreak
+379,Aiden Blizzard,"Jun 27, 1984",,Batsman,Left Handed Bat,Left-Arm Medium
+381,James Franklin,"Nov 07, 1980",Wellington,Bowling Allrounder,Left Handed Bat,Left-Arm Medium
+382,Davy Jacobs,"Nov 04, 1982",,WK-Batsman,Right Handed Bat,Right-Arm Medium
+383,Sarul Kanwar,"Nov 08, 1987",,Batsman,Right Handed Bat,Right-Arm Offbreak
+384,Pawan Suyal,"Oct 15, 1989",,Bowler,Right Handed Bat,Left-Arm Medium
+385,Santosh Yadav,"Oct 17, 1979",,Bowler,Left Handed Bat,Right-Arm Offbreak
+386,Surya Kumar Yadav,"Sep 14, 1990",,Batsman,Right Handed Bat,Right-Arm Offbreak
+387,Clint McKay,"Feb 22, 1983","Melbourne, Victoria",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+388,Ray Price,"Jun 12, 1976",Salisbury,Bowler,Right Handed Bat,Left-Arm Orthodox
+389,Eklavya Dwivedi,"Jul 22, 1988",,WK-Batsman,Right Handed Bat,
+390,Imtiaz Ahmed,"Jan 05, 1928","Lahore, Punjab",Bowler,Right Handed Bat,Right-Arm Offbreak
+391,Callum Ferguson,"Nov 21, 1984","North Adelaide, South Australia",Batsman,Right Handed Bat,Right-Arm Medium
+392,Ganesh Gaikwad,"Dec 04, 1987",,Bowler,Right Handed Bat,Right-Arm Offbreak
+393,Harpreet Singh,"Aug 11, 1991","Durg, Madhya Pradesh",Batsman,Left Handed Bat,Right-Arm Medium
+394,Dheeraj Jadhav,"Sep 16, 1979",,Batsman,Left Handed Bat,Right-Arm Offbreak
+395,Nathan McCullum,"Sep 01, 1980","Dunedin, Otago",Bowling Allrounder,Right Handed Bat,Right-Arm Offbreak
+396,Shrikant Mundhe,"Oct 27, 1988",Nanded,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+397,Tim Paine,"Dec 08, 1984","Hobart, Tasmania",WK-Batsman,Right Handed Bat,Right-Arm Medium
+398,Sachin Rana,"Sep 18, 1984",,Batting Allrounder,Right Handed Bat,
+399,Jerome Taylor,"Jun 22, 1984","St Elizabeth, Jamaica",Bowler,Right Handed Bat,Right-Arm Fast
+400,Alfonso Thomas,"Feb 09, 1977","Cape Town, Cape Province",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+401,James Faulkner,"Apr 29, 1990","Launceston, Tasmania",Bowling Allrounder,Right Handed Bat,Left-Arm Medium
+402,Mayank Agarwal,"Feb 16, 1991","Bangalore, Karnataka",Batsman,Right Handed Bat,
+403,Bhareth NP,"Nov 01, 1985",,Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+404,Nuwan Pradeep,"Oct 19, 1986",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+405,Abrar Kazi,"Sep 29, 1989",,Bowler,Left Handed Bat,Left-Arm Orthodox
+406,Asad Pathan,"Jun 17, 1984",,Bowler,Right Handed Bat,Right-Arm Medium
+407,Rilee Rossouw,"Oct 09, 1989","Bloemfontein, Orange Free State",Batsman,Left Handed Bat,Right-Arm Offbreak
+408,Johan van der Wath,"Jan 10, 1978","Newcastle, Natal",Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+409,Jonathan Vandiar,"Apr 25, 1990",Paarl,Batsman,Left Handed Bat,Right-Arm Legbreak
+410,JS Mohammad,"Jun 03, 1983",Chennai,Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+411,Stuart Binny,"Jun 03, 1984","Bangalore, Karnataka",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+412,Deepak Chahar,"Aug 07, 1992",,Bowler,Right Handed Bat,Right-Arm Medium
+413,Aditya Dole,"Oct 09, 1987","Pimpri, Maharashtra",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+414,Nayan Doshi,"Oct 06, 1978",,Bowler,Right Handed Bat,Left-Arm Orthodox
+415,Samad Fallah,"May 02, 1985",Hyderabad,Bowler,Left Handed Bat,Left-Arm Fast-Medium
+416,Ashok Menaria,"Oct 29, 1990",Udaipur,Batting Allrounder,Left Handed Bat,Left-Arm Orthodox
+417,Dishant Yagnik,"Jun 22, 1983",,WK-Batsman,Left Handed Bat,
+418,Darren Bravo,"Feb 06, 1989",Trinidad,Batsman,Left Handed Bat,Right-Arm Fast-Medium
+419,Daniel Harris,"Dec 31, 1979",,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+420,Tanmay Mishra,"Dec 22, 1986","Mumbai, India",Batsman,Right Handed Bat,Right-Arm Fast-Medium
+421,TP Sudhindra,"Apr 24, 1984",Hindupur,Bowler,Left Handed Bat,Right-Arm Fast
+422,Atchuta Rao,"Aug 21, 1986",,Batting Allrounder,Left Handed Bat,Left-Arm Medium
+423,Veer Pratap Singh,"May 03, 1992",,Bowler,Right Handed Bat,Right-Arm Medium
+424,Sneha Kishore,"Dec 31, 1993",Dawaleswaram,Bowler,Right Handed Bat,Left-Arm Orthodox
+425,Biplab Samantray,"Dec 14, 1988","Cuttack, Orissa",Batsman,Right Handed Bat,
+426,Akshath Reddy,"Feb 11, 1991",Hyderabad,Batsman,Right Handed Bat,Right-Arm Legbreak
+427,Gulam Bodi,"Jan 04, 1979","Hathuran, India",Batsman,Left Handed Bat,Left-Arm Chinaman
+428,Doug Bracewell,"Sep 28, 1990","Tauranga, Bay Of Plenty",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+429,Glenn Maxwell,"Oct 14, 1988","Kew, Melbourne, Victoria",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+430,Andre Russell,"Apr 29, 1988",,Bowling Allrounder,Right Handed Bat,Right-Arm Fast
+431,Manprit Juneja,"Sep 12, 1990",Ahmedabad,Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+432,Puneet Bisht,"Jun 15, 1986",Delhi,WK-Batsman,Right Handed Bat,
+433,Pawan Negi,"Jan 06, 1993",Delhi,Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+434,Kuldeep Raval,"Nov 30, 1985",,Batsman,Left Handed Bat,Left-Arm Orthodox
+435,Sunny Gupta,"Sep 27, 1988",Jamshedpur,Bowling Allrounder,Right Handed Bat,Right-Arm Offbreak
+436,Marchant de Lange,"Oct 13, 1990","Tzaneen, Limpopo",Bowler,Right Handed Bat,Right-Arm Fast
+437,Sunil Narine,"May 26, 1988","Arima, Trinidad & Tobago",Bowler,Left Handed Bat,Right-Arm Offbreak
+438,Chirag Jani,"Nov 09, 1989",Bhavnagar,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+439,Sanju Samson,"Nov 11, 1994","Pulluvila, Vizhinjam, Trivandrum",WK-Batsman,Right Handed Bat,
+440,Iresh Saxena,"Mar 14, 1984",,Bowler,Right Handed Bat,Left-Arm Orthodox
+441,Azhar Mahmood,"Feb 28, 1975","Rawalpindi, Punjab",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+442,Parvinder Awana,"Jul 19, 1986",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+443,Gurkeerat Singh Mann,"Jun 29, 1990",,Batsman,Right Handed Bat,Right-Arm Offbreak
+445,Richard Levi,"Jan 14, 1988",Johannesburg,Batsman,Right Handed Bat,Right-Arm Medium
+446,Robin Peterson,"Aug 04, 1979","Port Elizabeth, Cape Province",Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+447,Amitoze Singh,"Feb 15, 1989",,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+448,Sujit Nayak,"Jun 23, 1989",,Batsman,Right Handed Bat,Left-Arm Orthodox
+449,Apoorv Wankhade,"Mar 14, 1992","Amravati, Maharashtra",Batsman,Right Handed Bat,
+450,Marlon Samuels,"Feb 05, 1981","Kingston, Jamaica",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+451,Luke Wright,"Mar 07, 1985","Grantham, Lincolnshire",Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+452,Anustup Majumdar,"Apr 30, 1984",,Batting Allrounder,Right Handed Bat,Right-Arm Legbreak
+453,Krishnakant Upadhyay,"Jun 18, 1986",,Bowler,Right Handed Bat,Right-Arm Medium
+454,Tamim Iqbal,"Mar 20, 1989",Chittagong,Batsman,Left Handed Bat,
+455,Michael Clarke,"Apr 02, 1981","Liverpool, New South Wales",Batsman,Right Handed Bat,Left-Arm Orthodox
+456,Harshal Patel,"Nov 23, 1990","Sanand, Gujarat",Bowler,Right Handed Bat,Right-Arm Medium
+457,Vijay Zol,"Nov 23, 1994",,Batsman,Left Handed Bat,Right-Arm Offbreak
+458,Karun Nair,"Dec 06, 1991",Jodhpur,Batsman,Right Handed Bat,Right-Arm Offbreak
+459,Dinesh Chandimal,"Nov 18, 1989",Balapitiya,Batsman,Right Handed Bat,Right-Arm Offbreak
+460,Kevon Cooper,"Feb 02, 1989",Trinidad,Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+461,Brad Hogg,"Feb 06, 1971","Narrogin, Western Australia",Bowler,Left Handed Bat,Left-Arm Chinaman
+462,Baba Aparajith,"Jul 08, 1994",Chennai,Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+464,Akila Dhananjaya,"Oct 04, 1993",Panadura,Bowler,Left Handed Bat,Right-Arm Offbreak
+465,Chris Morris,"Apr 30, 1987","Pretoria, Transvaal",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+466,Jason Holder,"Nov 05, 1991",Barbados,Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+467,Ben Laughlin,"Oct 03, 1982","Box Hill, Victoria",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+468,Ronit More,"Feb 02, 1992","Belgaum, Karnataka",Bowler,Right Handed Bat,Right-Arm Medium
+469,Mohit Sharma,"Sep 18, 1988","Ballabhgarh, Haryana",Bowler,Right Handed Bat,Right-Arm Medium
+471,Ankit Rajput,"Dec 04, 1993",Kanpur,Bowler,Right Handed Bat,Right-Arm Medium
+472,R Karthikeyan,"Jan 26, 1993",,Batsman,Left Handed Bat,Left-Arm Orthodox
+473,Jeevan Mendis,"Jan 15, 1983",,Bowling Allrounder,Left Handed Bat,Right-Arm Legbreak
+474,Aristh Singhvi,"May 31, 1992",,Batting Allrounder,Right Handed Bat,
+475,Royston Dias,"Jan 30, 1993","Thane, Maharashtra",Batsman,Left Handed Bat,Left-Arm Medium
+476,Ben Rohrer,"Mar 26, 1981","Bankstown, New South Wales",Batsman,Left Handed Bat,
+477,Sachithra Senanayake,"Feb 09, 1985",,Bowler,Right Handed Bat,Right-Arm Offbreak
+478,Manan Vohra,"Jul 18, 1993","Chandigarh, Punjab",Batsman,Right Handed Bat,Right-Arm Medium
+479,Sandeep Sharma,"May 18, 1993","Patiala, Punjab",Bowler,Right Handed Bat,Right-Arm Medium
+480,Aniket Choudhary,"Jan 28, 1990","Bikaner, Rajasthan",Bowler,Right Handed Bat,Left-Arm Medium
+481,Michael Neser,"Mar 29, 1990","Pretoria, South Africa",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+482,Jalaj Saxena,"Dec 15, 1986","Indore, Madhya Pradesh",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+483,Phillip Hughes,"Nov 30, 1988","Macksville, New South Wales",Batsman,Left Handed Bat,
+484,Nathan Coulter-Nile,"Oct 11, 1987",,Bowler,Right Handed Bat,Right-Arm Fast
+485,Axar Patel,"Jan 20, 1994","Anand, Gujarat",Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+486,Javed Khan,"Oct 20, 1990","Siddharthanagar, Maharashtra",Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+487,Jasprit Bumrah,"Dec 06, 1993",Ahmedabad,Bowler,Right Handed Bat,Right-Arm Medium
+488,Ishwar Pandey,"Aug 15, 1989",,Bowler,Right Handed Bat,Right-Arm Medium
+489,Udit Birla,"Nov 17, 1989","Calcutta (Now Kolkata), Bengal",Batsman,Right Handed Bat,Right-Arm Medium
+490,Kane Richardson,"Feb 12, 1991","Eudunda, South Australia",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+491,Parvez Rasool,"Feb 13, 1989","Bijbehara, Jammu And Kashmir",Bowling Allrounder,Right Handed Bat,Right-Arm Offbreak
+492,Sandeep Warrier,"Apr 04, 1991","Thrissur, Kerala",Bowler,Right Handed Bat,Right-Arm Medium
+493,Ravi Rampaul,"Oct 15, 1984","Preysal, Trinidad",Bowler,Left Handed Bat,Right-Arm Fast-Medium
+494,Christopher Barnwell,"Jan 06, 1987",,Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+495,Sheldon Jackson,"Sep 27, 1986","Bhavnagar, Saurashtra",WK-Batsman,Right Handed Bat,
+497,Samuel Badree,"Mar 09, 1981","Barrackpore, Trinidad",Bowler,Right Handed Bat,Right-Arm Legbreak
+498,Kusal Perera,"Aug 17, 1990",Kalubowila,WK-Batsman,Left Handed Bat,
+499,Pravin Tambe,"Oct 08, 1971","Bombay (Now Mumbai), Maharashtra",Bowler,Right Handed Bat,Right-Arm Legbreak
+500,Sachin Baby,"Dec 18, 1988","Thodupuzha, Kerala",Batsman,Left Handed Bat,Right-Arm Offbreak
+501,Kumar Boresa,"Aug 25, 1995","Pali, Rajasthan",Bowler,Right Handed Bat,Left-Arm Orthodox
+502,Quinton de Kock,"Dec 17, 1992","Johannesburg, Gauteng",WK-Batsman,Left Handed Bat,
+503,Darren Sammy,"Dec 20, 1983","Micoud, St Lucia",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+504,Thalaivan Sargunam,"May 15, 1985","Nagar Kowil, Tamil Nadu",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+505,G H Vihari,"Oct 13, 1993","Kakinada, Andhra Pradesh",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+506,Matt Henry,"Dec 14, 1991","Christchurch, Canterbury",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+507,Imran Tahir,"Mar 27, 1979","Lahore, Punjab",Bowler,Right Handed Bat,Right-Arm Legbreak
+508,James Neesham,"Sep 17, 1990",Auckland,Batting Allrounder,Left Handed Bat,Right-Arm Medium
+509,Milind Kumar,"Feb 15, 1991",Delhi,Batsman,Right Handed Bat,Right-Arm Offbreak
+510,HS Sharath,"Jun 02, 1993","Mandya, Karnataka",Bowler,Right Handed Bat,Right-Arm Medium
+511,Jayant Yadav,"Jan 22, 1990",Delhi,Bowler,Right Handed Bat,Right-Arm Offbreak
+512,Kuldeep Yadav,"Dec 14, 1994","Kanpur, Uttar Pradesh",Bowler,Left Handed Bat,Left-Arm Chinaman
+513,Sayan Mondal,"Nov 10, 1989","Burdwan, Bengal",Bowling Allrounder,Left Handed Bat,Left-Arm Medium
+514,Pat Cummins,"May 08, 1993","Westmead, Sydney",Bowler,Right Handed Bat,Right-Arm Fast
+515,Beuran Hendricks,"Jun 08, 1990","Louis Leipoldt Hospital, Bellville, Cape Town",Bowler,Right Handed Bat,Left-Arm Fast-Medium
+516,Karanveer Singh,"Nov 08, 1987","Chandigarh, Punjab",Bowler,Right Handed Bat,Right-Arm Legbreak
+517,Shivam Sharma,"Sep 09, 1993",Delhi,Bowler,Right Handed Bat,Right-Arm Offbreak
+518,Shardul Thakur,"Oct 16, 1991","Palghar, Maharashtra",Bowler,Right Handed Bat,Right-Arm Medium
+519,Corey Anderson,"Dec 13, 1990","Christchurch, Canterbury",Batting Allrounder,Left Handed Bat,Left-Arm Fast-Medium
+520,Josh Hazlewood,"Jan 08, 1991","Tamworth, New South Wales",Bowler,Left Handed Bat,Right-Arm Fast-Medium
+521,Shreyas Gopal,"Sep 04, 1993","Banglaore, Karnataka",Bowler,Right Handed Bat,Right-Arm Legbreak
+522,Krishmar Santokie,"Dec 20, 1984",,Bowler,Left Handed Bat,Left-Arm Medium
+523,Ben Dunk,"Mar 11, 1987","Innisfail, Queensland",WK-Batsman,Left Handed Bat,
+524,Lendl Simmons,"Jan 25, 1985","Port Of Spain, Trinidad",Batsman,Right Handed Bat,Right-Arm Fast-Medium
+526,Ben Cutting,"Jan 30, 1987","Sunnybank, Brisbane, Queensland",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+527,Ankush Bains,"Dec 16, 1995",Hamirpur,WK-Batsman,Right Handed Bat,
+528,Rahul Tewatia,"May 20, 1993","Sihi, Haryana",Bowler,Left Handed Bat,Right-Arm Legbreak
+529,Deepak Hooda,"Apr 19, 1995",Rohtak,Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+530,Brendan Taylor,"Feb 06, 1986",Harare,WK-Batsman,Right Handed Bat,Right-Arm Offbreak
+531,Ricky Bhui,"Sep 29, 1996","Bhopal, Madhya Pradesh",Batsman,Right Handed Bat,Right-Arm Legbreak
+532,Chama Milind,"Sep 04, 1994","Hyderabad, Andhra Pradesh",Bowling Allrounder,Left Handed Bat,Left-Arm Medium
+533,Kyle Abbott,"Jun 18, 1987","Empangeni, Kwazulu-Natal",Bowler,Right Handed Bat,Right-Arm Medium
+534,Pratyush Singh,"Sep 04, 1994","Hazaribagh, Bihar",Bowler,Right Handed Bat,Right-Arm Legbreak
+535,Andrew Tye,"Dec 12, 1986","Perth, Western Australia",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+536,Gurinder Sandhu,"Jun 14, 1993","Blacktown, New South Wales",Bowling Allrounder,Left Handed Bat,Right-Arm Fast-Medium
+537,Shreyas Iyer,"Dec 06, 1994",Mumbai,Batsman,Right Handed Bat,Right-Arm Legbreak
+538,Travis Head,"Dec 29, 1993","Adelaide, South Australia",WK-Batsman,Left Handed Bat,Right-Arm Offbreak
+539,Srikar Bharat,"Oct 03, 1993","Visakhapatnam, Andhra Pradesh",WK-Batsman,Right Handed Bat,
+540,Marcus Stoinis,"Aug 16, 1989",,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+541,Domnic Muthuswami,"Mar 09, 1981","Pune, Maharashtra",Bowler,Right Handed Bat,Right-Arm Medium
+542,KK Jiyas,"Oct 21, 1991","Narikkuni, Calicut, Kerala",Bowling Allrounder,Right Handed Bat,Left-Arm Chinaman
+543,Aditya Garhwal,"Apr 15, 1996","Sikar, Rajasthan",Batting Allrounder,Right Handed Bat,Right-Arm Legbreak
+544,KC Cariappa,"Apr 13, 1994","Bangalore, Karnataka",Bowler,Right Handed Bat,Right-Arm Offbreak
+545,Vaibhav Rawal,"Nov 09, 1991",Delhi,Batsman,Left Handed Bat,Right-Arm Legbreak
+546,Nikhil Naik,"Nov 09, 1994","Savantwadi, Maharashtra",Batsman,Right Handed Bat,Right-Arm Offbreak
+547,Yogesh Golwalkar,"Feb 13, 1980","Indore, Madhya Pradesh",Batting Allrounder,Left Handed Bat,Right-Arm Legbreak
+548,Colin Munro,"Mar 11, 1987",Durban,Batsman,Left Handed Bat,Right-Arm Medium
+549,Mitchell McClenaghan,"Jun 11, 1986",,Bowler,Left Handed Bat,Left-Arm Fast-Medium
+550,Akshay Wakhare,"Oct 03, 1985","Nagpur, Maharashtra",Bowler,Right Handed Bat,Right-Arm Offbreak
+551,Nitish Rana,"Dec 27, 1993",Delhi,Batsman,Left Handed Bat,Right-Arm Offbreak
+553,Hardik Pandya,"Oct 11, 1993","Choryasi, Gujarat",Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+554,Jagadeesha Suchith,"Jan 16, 1994","1994, Mysore",Bowler,Left Handed Bat,Left-Arm Orthodox
+555,Alex Hales,"Jan 03, 1989",,Batsman,Right Handed Bat,Right-Arm Offbreak
+556,Nic Maddinson,"Dec 21, 1991","Nowra, New South Wales",Batsman,Left Handed Bat,Left-Arm Orthodox
+557,Sean Abbott,"Feb 29, 1992","Windsor, New South Wales",Bowler,Right Handed Bat,Right-Arm Medium
+558,David Wiese,"May 18, 1985",Roodepoort,Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+559,Sarfaraz Khan,"Oct 27, 1997",Mumbai,Batsman,Right Handed Bat,Right-Arm Offbreak
+560,Shishir Bhavane,"Sep 24, 1991","Hubli, Karnataka",Batting Allrounder,Left Handed Bat,Right-Arm Offbreak
+561,Pardeep Sahu,"Aug 21, 1985",Bhiwani,Batting Allrounder,Right Handed Bat,Right-Arm Legbreak
+562,Barinder Sran,"Dec 10, 1992",Sirsa,Bowler,Left Handed Bat,Left-Arm Medium
+563,Sagar Trivedi,"Oct 20, 1991","Mumbai, Maharashtra",Bowler,Left Handed Bat,Left-Arm Medium
+564,Kane Williamson,"Aug 08, 1990",Tauranga,Batsman,Right Handed Bat,Right-Arm Offbreak
+565,Trent Boult,"Jul 22, 1989",Rotorua,Bowler,Right Handed Bat,Left-Arm Fast-Medium
+567,Carlos Brathwaite,"Jul 18, 1988",,Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+568,Akhil Herwadkar,"Oct 31, 1994","Sangli, Maharashtra",Batsman,Left Handed Bat,Right-Arm Offbreak
+569,Joel Paris,"Dec 11, 1992",Perth,Bowler,Left Handed Bat,Left-Arm Fast-Medium
+570,Sam Billings,"Jun 15, 1991","Pembury, Kent",WK-Batsman,Right Handed Bat,
+571,Mahipal Lomror,"Nov 16, 1999","Nagaur, Rajasthan",Batting Allrounder,Left Handed Bat,Left-Arm Orthodox
+572,Rishabh Pant,"Oct 04, 1997","Haridwar, Uttarakhand",WK-Batsman,Left Handed Bat,
+573,Akshdeep Nath,"May 10, 1993",Lucknow,Batsman,Right Handed Bat,Right-Arm Fast-Medium
+574,Ishan Kishan,"Jul 18, 1998","Patna, Bihar",WK-Batsman,Left Handed Bat,
+575,Shivil Koushik,"Jul 09, 1995",,Bowler,Right Handed Bat,Left-Arm Chinaman
+576,Manan Sharma,"Mar 19, 1991",Delhi,Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+577,Farhaan Behardien,"Oct 09, 1983",Johannesburg,Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+578,Armaan Jaffer,"Oct 25, 1998","Sangli, Maharashtra",Batsman,Right Handed Bat,
+579,Kishore Kamat,"Jan 31, 1995",,Bowler,Right Handed Bat,
+580,Deepak Punia,"Sep 27, 1993","Bhiwani, Haryana",Bowler,Right Handed Bat,Right-Arm Medium
+581,Jos Buttler,"Sep 08, 1990","Taunton, Somerset",WK-Batsman,Right Handed Bat,
+582,Krunal Pandya,"Mar 24, 1991","Ahmedabad, Gujarat",Batting Allrounder,Left Handed Bat,Left-Arm Orthodox
+583,Jitesh Sharma,"Oct 22, 1993","Amrawati, Maharashtra",WK-Batsman,Right Handed Bat,
+584,Nathu Singh,"Sep 08, 1995",Jaipur,Bowler,Right Handed Bat,Right-Arm Medium
+585,Praveen Dubey,"Jul 01, 1993","Azamgarh, Uttar Pradesh",Bowler,Right Handed Bat,
+586,Vikas Tokas,"Oct 16, 1986",Delhi,Bowler,Right Handed Bat,Right-Arm Medium
+587,Akshay Karnewar,"Oct 12, 1992","Wagholi, Maharashtra",Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+588,Adam Milne,"Apr 13, 1992",,Bowler,Right Handed Bat,Right-Arm Fast
+589,Adam Zampa,"Mar 31, 1992","Shellharbour, New South Wales",Bowler,Right Handed Bat,Right-Arm Legbreak
+590,Murugan Ashwin,"Sep 08, 1990","Chennai, Tamil Nadu",Bowler,Right Handed Bat,Right-Arm Legbreak
+591,Scott Boland,"Apr 11, 1989","Melbourne, Australia",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+592,Peter Handscomb,"Apr 26, 1991","Melbourne, Victoria",Batsman,Right Handed Bat,
+593,Mustafizur Rahman,"Sep 06, 1995",Satkhira,Bowler,Left Handed Bat,Left-Arm Medium
+594,Kagiso Rabada,"May 25, 1995",Johannesburg,Bowler,Left Handed Bat,Right-Arm Fast
+595,Ankit Bawne,"Dec 17, 1992","Paitha, Aurangabad",Batting Allrounder,Right Handed Bat,Right-Arm Offbreak
+596,Navdeep Saini,"Nov 23, 1992","Karnal, Haryana",Bowler,Right Handed Bat,Right-Arm Medium
+597,Shashank Singh,"Nov 21, 1991",,Batsman,Right Handed Bat,Right-Arm Offbreak
+598,Jason Roy,"Jul 21, 1990","Durban, South Africa",Batsman,Right Handed Bat,
+599,Chirag Suri,"Feb 18, 1995",,Batsman,Right Handed Bat,Right-Arm Offbreak
+600,Basil Thampi,"Sep 11, 1993","Ernakulam, Kerala",Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+601,Shubham Agarwal,"Nov 21, 1993","Raigadh, Gujarat",Bowling Allrounder,Right Handed Bat,Right-Arm Legbreak
+602,Tejas Baroka,"Feb 01, 1996",Pondicherry,Bowler,Right Handed Bat,
+603,Pratham Singh,"Aug 31, 1992",Delhi,Batsman,Right Handed Bat,Right-Arm Offbreak
+604,Shelley Shaurya,"Sep 17, 1993",Delhi,Bowler,Right Handed Bat,Right-Arm Medium
+605,Ankit Soni,"Aug 02, 1993",,Bowler,Right Handed Bat,Right-Arm Legbreak
+606,Chris Woakes,"Mar 02, 1989",,Bowling Allrounder,Right Handed Bat,Right-Arm Medium
+607,Rovman Powell,"Jul 23, 1993",Jamaica,Batsman,Right Handed Bat,Right-Arm Fast-Medium
+608,Sayan Ghosh,"Sep 16, 1992","Nadia, Bengal",Bowler,Right Handed Bat,Right-Arm Medium
+609,Ramsingh Sanjay Yadav,"May 10, 1995","Gorakhpur, Uttar Pradesh",Bowler,Left Handed Bat,Left-Arm Orthodox
+610,Colin de Grandhomme,"Jul 22, 1986",Harare,Batting Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+611,Hashim Amla,"Mar 31, 1983","Durban, Natal",Batsman,Right Handed Bat,Right-Arm Medium
+612,Martin Guptill,"Sep 30, 1986",Auckland,Batsman,Right Handed Bat,Right-Arm Offbreak
+613,Rinku Singh,"Oct 12, 1997","Aligarh, Uttar Pradesh",Batsman,Left Handed Bat,Right-Arm Offbreak
+614,T Natarajan,"May 27, 1991",Salem,Bowler,Left Handed Bat,Left-Arm Medium
+615,Nicholas Pooran,"Oct 02, 1995",Trinidad,WK-Batsman,Left Handed Bat,
+616,Asela Gunaratne,"Jan 08, 1986",Kandy,Batting Allrounder,Right Handed Bat,Right-Arm Medium
+617,Krishnappa Gowtham,"Oct 20, 1988","Bangalore, Karnataka",Bowler,Right Handed Bat,Right-Arm Offbreak
+618,Kulwant Khejroliya,"Mar 13, 1992","Churi Ajitgarh Jhunjhunu District, Rajasthan",Bowler,Left Handed Bat,Left-Arm Fast-Medium
+619,Avesh Khan,"Dec 13, 1996","Indore, Madhya Pradesh",Bowler,Right Handed Bat,Right-Arm Medium
+620,Tabraiz Shamsi,"Feb 18, 1990","Johannesburg, Gauteng",Bowling Allrounder,Right Handed Bat,Left-Arm Chinaman
+621,Tymal Mills,"Aug 12, 1992","Dewsbury, Yorkshire",Bowler,Right Handed Bat,Left-Arm Fast-Medium
+622,Billy Stanlake,"Nov 04, 1994",,Bowler,Left Handed Bat,Right-Arm Fast
+623,Vishnu Vinod,"Dec 02, 1993","Pathanamthitta, Kerala",WK-Batsman,Right Handed Bat,
+624,Usman Khawaja,"Dec 18, 1986","Islamabad, Pakistan",Batsman,Left Handed Bat,Right-Arm Medium
+625,Ben Stokes,"Jun 04, 1991","Canterbury, New Zealand",Bowling Allrounder,Left Handed Bat,Right-Arm Medium
+626,Rahul Chahar,"Aug 04, 1999","Bharaatpur, Rajasthan",Bowler,Right Handed Bat,Right-Arm Legbreak
+627,Lockie Ferguson,"Jun 13, 1991",,Bowler,Right Handed Bat,Right-Arm Fast
+628,Saurabh Kumar,"May 01, 1993","Baghpat, Uttar Pradesh",Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+629,Milind Tandon,"Oct 29, 1993",Delhi,Batting Allrounder,Right Handed Bat,
+630,Rahul Tripathi,"Mar 02, 1991","Ranchi, Jharkhand",Batsman,Right Handed Bat,Right-Arm Medium
+631,Washington Sunder,"Oct 05, 1999","Chennai, Tamil Nadu",Batting Allrounder,Left Handed Bat,Right-Arm Offbreak
+632,Chris Jordan,"Oct 04, 1988",Barbados,Bowler,Right Handed Bat,Right-Arm Medium
+633,Mohammad Nabi,"Jan 01, 1985","Loger, Afghanistan",Bowling Allrounder,Right Handed Bat,Right-Arm Offbreak
+634,Rashid Khan,"Dec 15, 1959","Karachi, Sind",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+635,Tanmay Agarwal,"May 03, 1995","Hyderabad, Andhra Pradesh",Batsman,Left Handed Bat,Right-Arm Legbreak
+637,N Jagadeesan,"Dec 24, 1995","Coimbatore, Tamil Nadu",WK-Batsman,Right Handed Bat,
+638,Mitchell Santner,"Feb 05, 1992",Hamilton,Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+639,KM Asif,"Jul 24, 1993","Edavanna, Malappuram",Bowler,Right Handed Bat,Right-Arm Medium
+640,Lungisani Ngidi,"Mar 29, 1996","Durban, Natal",Bowler,Right Handed Bat,Right-Arm Fast
+641,Kanishk Seth,"Nov 04, 1997",Kolkata,Bowler,Right Handed Bat,Left-Arm Medium
+642,Dhruv Shore,"Jun 05, 1992",Delhi,Batsman,Right Handed Bat,Right-Arm Offbreak
+643,Mark Wood,"Jan 11, 1990",,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+644,Kshitiz Sharma,"Apr 21, 1990",Delhi,Batsman,Right Handed Bat,Right-Arm Medium
+645,Monu Kumar,"Nov 05, 1994","Ranchi, Bihar",Bowler,Right Handed Bat,Right-Arm Medium
+646,Chaitanya Bishnoi,"Aug 25, 1994",Delhi,Batsman,Left Handed Bat,Left-Arm Orthodox
+647,Mohammed Shami,"Mar 09, 1990","Jonagar, Bengal",Bowler,Right Handed Bat,Right-Arm Fast-Medium
+648,Prithvi Shaw,"Nov 09, 1999","Thane, Maharashtra",Batsman,Right Handed Bat,Right-Arm Offbreak
+649,Vijay Shankar,"Jan 26, 1991","Tirunelveli, Tamil Nadu",Batting Allrounder,Right Handed Bat,Right-Arm Medium
+650,Manjot Kalra,"Jan 15, 1999",Delhi,Batsman,Left Handed Bat,Right-Arm Medium
+651,Abhishek Sharma,"Sep 04, 2000","Amritsar, Punjab",Bowler,Left Handed Bat,Left-Arm Orthodox
+652,Sandeep Lamichanne,"Aug 02, 2000",Syangja,Bowler,Right Handed Bat,Right-Arm Legbreak
+654,Javon Searless,"Dec 21, 1986","Durants Village, St James, Barbados",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+655,Mitchell Johnson,"Nov 02, 1981","Townsville, Queensland",Bowler,Left Handed Bat,Left-Arm Fast
+656,Cameron Delport,"May 12, 1989","Durban, Natal",Batting Allrounder,Left Handed Bat,Right-Arm Medium
+657,Shivam Mavi,"Nov 26, 1998","Noida, Uttar Pradesh",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+658,Kamlesh Nagarkoti,"Dec 28, 1999","Barmer, Rajasthan",Bowler,Right Handed Bat,Right-Arm Fast
+659,Shubham Gill,"Sep 08, 1999","Firozpur, Punjab",Batsman,Right Handed Bat,Right-Arm Offbreak
+661,Mitchell Starc,"Jan 30, 1990","Baulkham Hills, Sydney, New South Wales",Bowler,Left Handed Bat,Left-Arm Fast
+662,Manzoor Dar,"Jul 02, 1974",Jammu,Batsman,Right Handed Bat,
+663,Mayank Dagar,"Nov 11, 1996",Delhi,Bowler,Right Handed Bat,Left-Arm Orthodox
+664,Pradeep Sahu,"Aug 21, 1985",Bhiwani,Batting Allrounder,Right Handed Bat,Leg Break Googly
+665,Ben Dwarshuis,"Jun 23, 1994","Kareela, New South Wales",Bowler,Left Handed Bat,Left-Arm Fast-Medium
+666,Mujeeb Jadran,"Mar 28, 2001",Khost,Bowler,Right Handed Bat,Right-Arm Offbreak
+668,Lokesh Rahul,"Apr 18, 1992","Mangaluru, Karnataka",WK-Batsman,Right Handed Bat,
+669,MD Nidheesh,"May 05, 1991","Chembu, Kottayam, Kerala",Bowler,Right Handed Bat,Right-Arm Medium
+670,Mohsin Khan,"Mar 15, 1955","Karachi, Sind",Batsman,Right Handed Bat,Right-Arm Medium
+671,Anukul Sudhakar Roy,"Nov 30, 1998","Saraikela Kharswan, Jharkhand",Batting Allrounder,Left Handed Bat,Left-Arm Orthodox
+672,Mayank Markande,"Nov 11, 1997","Bathinda, Punjab",Batsman,Right Handed Bat,
+673,Siddhesh Lad,"May 23, 1992",Mumbai,Batsman,Right Handed Bat,Right-Arm Offbreak
+674,Sharad Lumba,"Sep 10, 1989","Amritsar, Punjab",Batsman,Right Handed Bat,Right-Arm Offbreak
+675,TN Dhillon,"May 25, 1992","Dholpur, Rajasthan",Bowling Allrounder,Right Handed Bat,Right-Arm Offbreak
+676,Jason Behrendorff,"Apr 20, 1990","Camden, New South Wales",Bowler,Right Handed Bat,Left-Arm Fast-Medium
+677,Jean-Paul Duminy,"Apr 14, 1984","Strandfontein, Cape Town, Cape Province",Batting Allrounder,Left Handed Bat,Right-Arm Offbreak
+678,Evin Lewis,"Dec 27, 1991",,Batsman,Left Handed Bat,
+679,Pavan Deshpande,"Sep 16, 1989","Dharwad, Karnataka",Batsman,Left Handed Bat,Right-Arm Offbreak
+680,Anirudh Joshi,"Nov 07, 1987",India,Bowling Allrounder,Right Handed Bat,Right-Arm Offbreak
+681,Mohammed Siraj,"Mar 13, 1994",Hyderabad,Bowler,Right Handed Bat,Right-Arm Fast-Medium
+682,Yuzvendra Chahal,"Jul 23, 1990","Jind, Haryana",Bowler,Right Handed Bat,Right-Arm Legbreak
+683,Moeen Ali,"Jun 18, 1987",,Batting Allrounder,Left Handed Bat,Right-Arm Offbreak
+684,Dushmantha Chameera,"Jan 11, 1992",Ragama,Bowler,Right Handed Bat,Right-Arm Fast
+685,Jatin Saxena,"Aug 04, 1982","Indore, Madhya Pradesh",Batting Allrounder,Right Handed Bat,Right-Arm Legbreak
+686,Aryaman Birla,"Jul 09, 1997","Mumbai, Maharashtra",Batsman,Left Handed Bat,Left-Arm Orthodox
+687,S Midhun,"Oct 7, 1994",Kayamkulam,Batting Allrounder,Right Handed Bat,Leg Break Googly
+688,Prashan Chopra,"Oct 07, 1992","Solan, Himachal Pradesh",WK-Batsman,Right Handed Bat,Right-Arm Legbreak
+689,Jofra Archer,"Apr 01, 1995","Bridgetown, Barbados",Bowling Allrounder,Right Handed Bat,Right-Arm Fast-Medium
+690,D Arcy Short,"Aug 09, 1990","Katherine, Northern Territory",Batsman,Left Handed Bat,Left-Arm Orthodox
+691,Bhuvneshwar Kumar,"Feb 05, 1990",,Bowler,Right Handed Bat,Right-Arm Medium
+692,Mehdi Hasan,"Feb 03, 1990","Hyderabad, Andhra Pradesh",Bowling Allrounder,Left Handed Bat,Left-Arm Orthodox
+693,K Khaleel Ahmed,"Dec 05, 1997","Tonk, Rajasthan",Bowler,Right Handed Bat,Left-Arm Medium
+694,Amit Mishra,"Nov 11, 1991",Kanpur,Bowler,Right Handed Bat,Right-Arm Medium
+695,Harmeet Singh,"Sep 07, 1992",,Bowler,Left Handed Bat,Left-Arm Orthodox
+696,Zahir Khan,"Dec 20, 1998",,Bowler,Left Handed Bat,Left-Arm Chinaman
